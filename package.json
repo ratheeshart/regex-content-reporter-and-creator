@@ -1,0 +1,14 @@
+{
+  "name": "count_analazer",
+  "version": "1.0.0",
+  "description": "search for specific starting on a path of files and creates report",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "ratheesh",
+  "license": "ISC"
+}
